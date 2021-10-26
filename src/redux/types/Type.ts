@@ -1,0 +1,1 @@
+export type TStringObject = {[x:string]:string}
