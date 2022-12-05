@@ -23,6 +23,19 @@ pod install
 cd ..
 ```
 
+### App Run
+
+1. Android Run
+
+```
+ npx react-native run-android OR npm run android
+```
+
+2. Android Run
+
+```
+ npx react-native run-ios OR npm run ios
+```
 
 ### Clear Cache
 ```
